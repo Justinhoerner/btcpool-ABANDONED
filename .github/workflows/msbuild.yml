@@ -1,4 +1,4 @@
-# This workflow uses actions that are not certified by GitHub.
+[![MSBuild](https://github.com/Justinhoerner/btcpool-ABANDONED/actions/workflows/msbuild.yml/badge.svg)](https://github.com/Justinhoerner/btcpool-ABANDONED/actions/workflows/msbuild.yml)# This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
